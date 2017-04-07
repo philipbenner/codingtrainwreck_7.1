@@ -22,7 +22,7 @@ function draw() {
   	planets[i].update();
   };
   ambientLight(50);
-  directionalLight(800, 0, 0, 0.25, 0.25, 0.25);
+  directionalLight(250, 250, 250, 0.25, 0.25, 0.25);
 }
 
 
